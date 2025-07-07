@@ -35,22 +35,22 @@ The script then plots the concentration of A and B vs. time.
 - NumPy
 - Matplotlib
 
-Install with:
+## Install with:
 
 pip install numpy matplotlib
 
-Running the Script
+## Running the Script
 
-Save the code in a file (e.g., reversible_reaction.py) and run it :
+- Save the code in a file (e.g., reversible_reaction.py) and run it :
 
-python reversible_reaction.py
+- python reversible_reaction.py
 
-This will display a plot showing the concentrations of A and B over time as they reach equilibrium.
+- This will display a plot showing the concentrations of A and B over time as they reach equilibrium.
 
-Author
+## Author
 
 This project was developed by Abhinav Dixit. Feel free to fork, contribute, or reach out for questions.
 
-License
+## License
 
 Feel free to use and modify this script for educational or research purposes.
