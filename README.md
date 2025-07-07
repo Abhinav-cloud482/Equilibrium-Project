@@ -47,6 +47,11 @@ pip install numpy matplotlib
 
 - This will display a plot showing the concentrations of A and B over time as they reach equilibrium.
 
+## Screenshot
+
+![Chemical Equilibrium](https://github.com/user-attachments/assets/c7993d4d-cb77-4255-b121-7bf5bad1c615)
+
+
 ## Author
 
 This project was developed by Abhinav Dixit. Feel free to fork, contribute, or reach out for questions.
